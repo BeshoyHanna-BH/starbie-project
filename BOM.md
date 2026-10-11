@@ -20,7 +20,7 @@
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=1&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | . | 1 | $10.00 | $10.00 | [.](https://cart.jlcpcb.com/quote?stencilLayer=1&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | [Keyboard Switches](https://www.amazon.com//dp/B0FQP8VYX4) | 50 Pcs 3 PIN Blue Keyboard Clicker for 3D Prints | 4 | $0.18 | $0.72 | [amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | **Parts subtotal** | — | — | — | **$21.49** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$21.49** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$31.49** | — |
 
-$8.51 left of the tier's funding.
+**$1.49 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
