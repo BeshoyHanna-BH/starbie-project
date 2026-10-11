@@ -176,6 +176,8 @@ The files in `Gerbers/` (Gerber layers plus drill files) can be uploaded to any 
 
 The firmware has been compiled but not yet run on the finished board, so the on-screen behavior described above comes from the starter code and has not been confirmed on this hardware yet. I'll update this section once the board arrives.
 
+<img width="442" height="353" alt="817fd22a-6df5-435a-98ca-21cf9ab244ac" src="https://github.com/user-attachments/assets/36296511-9c5a-4bd8-adf3-988393601d99" />
+
 ## Credits
 
 - [Half Life](https://halflife.hackclub.com) by Hack Club, the program this project was built for
